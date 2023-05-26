@@ -1,5 +1,3 @@
-# https://github.com/rust-lang/book/blob/main/ci/spellcheck.sh
-
 #!/bin/bash
 
 set -eu
